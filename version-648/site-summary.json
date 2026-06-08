@@ -1,0 +1,47 @@
+{
+  "siteName": "必看日韩剧",
+  "movieCount": 2000,
+  "hlsSourceCount": 14,
+  "categories": [
+    {
+      "slug": "rihan-jingxuan",
+      "name": "日韩精选"
+    },
+    {
+      "slug": "gaoqing-dianying",
+      "name": "高清电影"
+    },
+    {
+      "slug": "rebo-juji",
+      "name": "热播剧集"
+    },
+    {
+      "slug": "koubei-jiashi",
+      "name": "口碑佳作"
+    },
+    {
+      "slug": "aiqing-juqing",
+      "name": "爱情剧情"
+    },
+    {
+      "slug": "xuanyi-jingsong",
+      "name": "悬疑惊悚"
+    },
+    {
+      "slug": "qihuan-dongzuo",
+      "name": "奇幻动作"
+    },
+    {
+      "slug": "jiating-zhiyu",
+      "name": "家庭治愈"
+    },
+    {
+      "slug": "jingdian-gangtai",
+      "name": "经典港台"
+    },
+    {
+      "slug": "quanwang-xinshou",
+      "name": "全网新收"
+    }
+  ]
+}
